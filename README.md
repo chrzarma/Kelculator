@@ -1,4 +1,4 @@
-# Kelculator Privacy Policy
+# Privacy Policy
 
 Effective Date: 6 December 2020
 
