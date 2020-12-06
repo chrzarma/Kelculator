@@ -4,7 +4,7 @@ Effective Date: 6 December 2020
 
 This Privacy Policy contains the following sections:
 ### 1. What Information We Collect
-This app does not collect any information. 
+This app does not collect any information or data. 
 
 We only use in the App and do not collect, your device’s Settings preferences(Appearance and Region Settings) to facilitate your use of the App. 
 
